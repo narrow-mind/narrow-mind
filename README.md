@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @narrow-mind
-- 👀 I’m interested in everyting science
+- 👀 I’m interested in anyting science
 - 🌱 I’m currently learning Web development ...
 - 💞️ I’m looking to collaborate on LLM research  ...
 - 📫 How to reach me ... I'm not sure. I will ask ChatGPT 3.5
